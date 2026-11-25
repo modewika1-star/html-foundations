@@ -1,4 +1,6 @@
-# 🌱 My First Frontend Project
+# HTML Foundations | My First Web Page
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://html-first-steps-2-mjs.vercel.app/)
 
 <div align="center">
 
